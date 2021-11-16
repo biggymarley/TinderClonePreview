@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/TinderClonePreview/static/css/main.6ff76cc2.chunk.css",
-    "main.js": "/TinderClonePreview/static/js/main.b3ee8815.chunk.js",
-    "main.js.map": "/TinderClonePreview/static/js/main.b3ee8815.chunk.js.map",
-    "runtime-main.js": "/TinderClonePreview/static/js/runtime-main.1ff08031.js",
-    "runtime-main.js.map": "/TinderClonePreview/static/js/runtime-main.1ff08031.js.map",
-    "static/js/2.47c48c3c.chunk.js": "/TinderClonePreview/static/js/2.47c48c3c.chunk.js",
-    "static/js/2.47c48c3c.chunk.js.map": "/TinderClonePreview/static/js/2.47c48c3c.chunk.js.map",
-    "static/js/3.ea75f2e3.chunk.js": "/TinderClonePreview/static/js/3.ea75f2e3.chunk.js",
-    "static/js/3.ea75f2e3.chunk.js.map": "/TinderClonePreview/static/js/3.ea75f2e3.chunk.js.map",
-    "static/js/4.2f18ad11.chunk.js": "/TinderClonePreview/static/js/4.2f18ad11.chunk.js",
-    "static/js/4.2f18ad11.chunk.js.map": "/TinderClonePreview/static/js/4.2f18ad11.chunk.js.map",
-    "static/js/5.b848f2ba.chunk.js": "/TinderClonePreview/static/js/5.b848f2ba.chunk.js",
-    "static/js/5.b848f2ba.chunk.js.map": "/TinderClonePreview/static/js/5.b848f2ba.chunk.js.map",
+    "main.js": "/TinderClonePreview/static/js/main.bc46b3c6.chunk.js",
+    "main.js.map": "/TinderClonePreview/static/js/main.bc46b3c6.chunk.js.map",
+    "runtime-main.js": "/TinderClonePreview/static/js/runtime-main.f38b707b.js",
+    "runtime-main.js.map": "/TinderClonePreview/static/js/runtime-main.f38b707b.js.map",
+    "static/js/2.a40d37ea.chunk.js": "/TinderClonePreview/static/js/2.a40d37ea.chunk.js",
+    "static/js/2.a40d37ea.chunk.js.map": "/TinderClonePreview/static/js/2.a40d37ea.chunk.js.map",
+    "static/js/3.8757345f.chunk.js": "/TinderClonePreview/static/js/3.8757345f.chunk.js",
+    "static/js/3.8757345f.chunk.js.map": "/TinderClonePreview/static/js/3.8757345f.chunk.js.map",
+    "static/js/4.7bac4740.chunk.js": "/TinderClonePreview/static/js/4.7bac4740.chunk.js",
+    "static/js/4.7bac4740.chunk.js.map": "/TinderClonePreview/static/js/4.7bac4740.chunk.js.map",
+    "static/js/5.195bbd18.chunk.js": "/TinderClonePreview/static/js/5.195bbd18.chunk.js",
+    "static/js/5.195bbd18.chunk.js.map": "/TinderClonePreview/static/js/5.195bbd18.chunk.js.map",
     "index.html": "/TinderClonePreview/index.html",
     "static/css/main.6ff76cc2.chunk.css.map": "/TinderClonePreview/static/css/main.6ff76cc2.chunk.css.map",
-    "static/js/2.47c48c3c.chunk.js.LICENSE.txt": "/TinderClonePreview/static/js/2.47c48c3c.chunk.js.LICENSE.txt",
-    "static/js/3.ea75f2e3.chunk.js.LICENSE.txt": "/TinderClonePreview/static/js/3.ea75f2e3.chunk.js.LICENSE.txt",
+    "static/js/2.a40d37ea.chunk.js.LICENSE.txt": "/TinderClonePreview/static/js/2.a40d37ea.chunk.js.LICENSE.txt",
+    "static/js/3.8757345f.chunk.js.LICENSE.txt": "/TinderClonePreview/static/js/3.8757345f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/TinderClonePreview/static/media/GothamRounded-Medium.10d88929.otf",
     "static/media/homebg.5e9cc30c.webp": "/TinderClonePreview/static/media/homebg.5e9cc30c.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ff08031.js",
-    "static/js/2.47c48c3c.chunk.js",
+    "static/js/runtime-main.f38b707b.js",
+    "static/js/2.a40d37ea.chunk.js",
     "static/css/main.6ff76cc2.chunk.css",
-    "static/js/main.b3ee8815.chunk.js"
+    "static/js/main.bc46b3c6.chunk.js"
   ]
 }
