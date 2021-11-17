@@ -1,0 +1,1 @@
+{"version":3,"sources":["content/Dashboard/Dashboard.js"],"names":["Dashboard"],"mappings":"kGAAA,+DAEe,SAASA,IACpB,OACI","file":"static/js/4.1bef12e8.chunk.js","sourcesContent":["import React from 'react'\n\nexport default function Dashboard() {\n    return (\n        <div>\n            Wlcom\n        </div>\n    )\n}\n"],"sourceRoot":""}
