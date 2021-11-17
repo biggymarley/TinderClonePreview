@@ -1,2 +1,0 @@
-(this.webpackJsonpmatcha=this.webpackJsonpmatcha||[]).push([[4],{151:function(t,c,n){"use strict";n.r(c),n.d(c,"default",(function(){return e}));n(1);var a=n(2);function e(){return Object(a.jsx)("div",{children:"Wlcom"})}}}]);
-//# sourceMappingURL=4.1bef12e8.chunk.js.map
